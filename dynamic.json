@@ -1,0 +1,44 @@
+{
+	"profile":{
+		"imag":"images.jpg",
+		"name" :"himapriya.y",
+		"roll":"1252",
+		"place":"nrt",
+		"email":"yelineedipriya313@gmail.com"
+	},
+	"career":{
+		"info":"i want to seek a job in reputed company to explore my taughts for benefits of company"
+	},
+	"education":[
+		{
+		"degree":"b tec",
+		"institute":"vignan",
+		"per":"80%",
+		"yop":"2018"
+
+	},
+	{
+		"degree":"inter",
+		"institute":"chaitanya",
+		"per":"90%",
+		"yop":"2017"
+
+	},
+	{
+
+	"degree" :"ssc",
+	"institute":"hindu",
+	"per":"75%",
+	"yop":"2015"
+}],
+	"languages":[{
+		"info":"english"
+	},
+	{
+		"info":"telugu"
+	},
+    {
+    	"info":"hindi"
+    }
+    ]
+}

@@ -1,0 +1,16 @@
+body{
+	background:pink;
+}
+.main{
+	background: aqua;
+	display:flex;
+	justify-content: space-around;
+	margin: 10%;
+	border-radius:  5%; 
+ }
+ .sub{
+ 	background: bisque;
+ 	margin: 5%;
+ 	border-radius:  5%
+ 	 
+ }
